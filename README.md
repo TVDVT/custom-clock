@@ -20,3 +20,6 @@ I used the video from the Slack huddle, it was super useful! I have yet to reall
 ##Journal 4 - Firmware (0.5h)
 I just started and I am already stuck. I am not sure what to do for te coding part. I'm going to continue tomorrow, I work better close to deadlines.
 Out of my brainstorming ideas, I think I will only keep the Pomodoro timer and the clock+alarm haha, then work more on it later. My goal is to submit before the deadline (fingers crossed). To stall, I am going to upload some files and check the requirements.
+
+##Journal 5 - Assembly (45 min)
+I had so much trouble using the fasten tool, but I think I figured it out. Aligning the switches was the most challenging part, I still don't know if they're properly alignedé
