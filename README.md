@@ -1,25 +1,33 @@
 # custom-clock
-A clock that can also be a focus companion for studying
+A clock that can also be a focus companion for studying. 
+3 modes:
+  - Clock: shows time
+  - Alarm: set an alarm
+  - Pomodoro: set recurring timers for study time (default: 25 minutes of studying and 5 minutes of break time)
 
-## Journal 1 - Brainstorm / Planning (15 minutes)
-<img width="465" height="350" alt="image" src="https://github.com/user-attachments/assets/96c6c638-9321-4273-b783-a95bc317e272" />
+## CAD model
+<p align="center">
+  <img width="552" height="323" alt="image" src="https://github.com/user-attachments/assets/13779a49-6cad-45ba-8a16-a52b7649760d" />
+</p>
 
-## Journal 2 - Wiring (10 minutes)
-I kinda just looked at what others did and applied it to my clock. I will be using 6 switches and one buzzer.
-Planned switches:
-- Up
-- Down
-- Select
-- Back
-- Menu
-- Settings
+## Case
+<p align="center">
+  <img width="354" height="235" alt="image" src="https://github.com/user-attachments/assets/9002919a-9920-4076-902a-6a3ae7d5b0ca" />
+</p>
+## Wiring
+<p align="center">
+  <img width="500" alt="wiring" src="https://github.com/user-attachments/assets/302c805b-b4f1-4bd4-80cc-1b0d31033898" />
+</p>
 
-## Journal 3 - CAD ( 1.5 hours)
-I used the video from the Slack huddle, it was super useful! I have yet to really personalize it, but I don't want to spend too much time on it and then not even being able to do the firmware :(. The most difficult part here is managing all the sketches and extrudes. Moving pieces to where I want to is also super rage baiting.
+## BOM:
 
-##Journal 4 - Firmware (0.5h)
-I just started and I am already stuck. I am not sure what to do for te coding part. I'm going to continue tomorrow, I work better close to deadlines.
-Out of my brainstorming ideas, I think I will only keep the Pomodoro timer and the clock+alarm haha, then work more on it later. My goal is to submit before the deadline (fingers crossed). To stall, I am going to upload some files and check the requirements.
-
-##Journal 5 - Assembly (45 min)
-I had so much trouble using the fasten tool, but I think I figured it out. Aligning the switches was the most challenging part, I still don't know if they're properly alignedé
+| Component | Amount |
+| :--- | :---: |
+| **Lolin C3 Mini ESP 32 Devboard** | 1x |
+| **Keyboard Switches** | 12x |
+| **2.25in TFT Screen** | 1x | 
+| **3.3V Piezo Buzzer** | 1x |
+| **3D Printed Case** | 1x |
+| **F-M Jumper cables** | 8x |
+| **M-M Jumper cables** | 8x |
+| **Plain wires** | 6x |
