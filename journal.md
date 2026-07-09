@@ -27,3 +27,7 @@ Doing anything but the firmare lol, updated my readme to comply to requirements 
 ## Journal 7 - FIRMWARE MAPPING (45 minutes)
 I'm writing my code in English language for now and then will learn how to translate it to code. I'm just trying to get the logic down for now.
 <img width="472" height="353" alt="image" src="https://github.com/user-attachments/assets/dedf9c98-0b8f-4d3a-b140-5023eff953a2" />
+
+## Journal 8 - CODING (1 hour)
+I just spent 1 hour translating my pseudocode into code. Right now I have what each button does in each screen. I have yet to do the timer / clock coding and any designing for the display, but trust I will finish before the deadline. <br>
+<img width="314" height="443" alt="image" src="https://github.com/user-attachments/assets/d498209f-8d88-4e0b-821e-93ac9d0dbb4f" />
