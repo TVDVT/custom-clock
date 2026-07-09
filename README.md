@@ -14,6 +14,7 @@ A clock that can also be a focus companion for studying.
 <p align="center">
   <img width="354" height="235" alt="image" src="https://github.com/user-attachments/assets/9002919a-9920-4076-902a-6a3ae7d5b0ca" />
 </p>
+
 ## Wiring
 <p align="center">
   <img width="500" alt="wiring" src="https://github.com/user-attachments/assets/302c805b-b4f1-4bd4-80cc-1b0d31033898" />
